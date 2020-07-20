@@ -1,31 +1,31 @@
-# undefined
+# README-GENERATOR
   
   ## Table of Contents
   * [Description](#description)
   * [Installation Instructions](#installation)
   * [Usage](#usage)
-  * [Licensing](#license)
+  * [Licensing](#licensing)
   * [Guidelines for Contributing](#contribution-guidelines)
   * [Tests](#tests)
   
   ## Description
-  this application easily generates readme files for your projects 
+  adf 
 
   ## Installation Instructions
-  install to desktop 
+  daf 
 
   ## Usage
-  install 
+  d 
 
   ## Licensing
-  This project is covered under NONE.
+  This project is covered under MIT.
 
-  ## Guidelines for Contributing
-  contribute here 
+  ## Contribution Guidelines
+  f 
 
   ## Tests  
-  testing 
+  df
 
   ## Questions
-  Please send any questions/concerns/comments to: undefined
+  Please send any questions/concerns/comments to: mlindenx@gmail.com
 
