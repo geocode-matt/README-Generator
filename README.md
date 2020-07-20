@@ -2,29 +2,29 @@
   
   ## Table of Contents
   * [Description](#description)
-  * [Installation Instructions](#installation)
+  * [Installation Instructions](#installation-instructions)
   * [Usage](#usage)
   * [Licensing](#licensing)
-  * [Guidelines for Contributing](#contribution-guidelines)
+  * [Contribution Guidelines](#contribution-guidelines)
   * [Tests](#tests)
   
   ## Description
-  adf 
+  creates readmes for you 
 
   ## Installation Instructions
-  daf 
+  download and run it on node.js 
 
   ## Usage
-  d 
+  answer questions when prompted to generate a readme file for your project 
 
   ## Licensing
-  This project is covered under MIT.
+  This project is covered under MIT,APACHE 2.0,GPL 3.0,BSD 3.
 
   ## Contribution Guidelines
-  f 
+  email me 
 
   ## Tests  
-  df
+  email me
 
   ## Questions
   Please send any questions/concerns/comments to: mlindenx@gmail.com
